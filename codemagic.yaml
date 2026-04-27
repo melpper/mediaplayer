@@ -21,7 +21,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - your@email.com   # ← change this to your email
+          - melihdog@gmail.com   # ← change this to your email
         notify:
           success: true
           failure: true
